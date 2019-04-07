@@ -2,7 +2,7 @@
     "name": "data-driven-parameters",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://tableau.github.io/extension-data-driven-parameters/",
+    "homepage": "https://pamasse.github.io/extension-data-driven-parameters/",
     "dependencies": {
         "@tableau/tableau-ui": "^2.0.1",
         "@types/react-router-dom": "^4.2.7",
